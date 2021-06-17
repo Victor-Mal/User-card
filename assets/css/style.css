@@ -1,0 +1,26 @@
+.main {
+    background: deepskyblue;
+    text-align: center;
+    border: inset black 3px;
+    margin: 10% 30%;
+    max-width: 600px;
+}
+.port {
+   box-sizing: border-box;
+   border: blueviolet 3px inset;
+   border-radius: 50%;
+   width: 26%;
+   object-position: top;
+}
+.info {
+    background: white;
+}
+.but {
+    
+}
+.but1 {
+
+}
+.but3 {
+
+}
