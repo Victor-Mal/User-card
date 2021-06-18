@@ -17,29 +17,46 @@
    border-radius: 50%;
    width: 26%;
    object-position: top;
-   margin: -20%;
+   margin: -43%;
 }
 .info {
     background: white;
+    margin: 30% 0 10%;
+    padding: 10%;
     
+}
+.geo {
+    display: inline-block;
+    height: 1rem;
 }
 .but {
   padding: 1% 10%;  
+}
+.asd {
+    display: inline-block;
 }
 .but1 {
     background: green;
     border: inherit;
     border-radius: 10%;
     margin: 10%;
-    width: 30%;
+    width: 110%;
+    height: 2rem;
+    
 }
 .but2 {
     background: deepskyblue;
     border: inherit;
     border-radius: 10%;
     margin: 10%;
-    width: 30%;
+    width: 110%;
+    height: 2rem;
 }
 .text {
-
+    padding: 0 0 3%;
+}
+.f-g-t {
+    display: inline-block;
+    height: 36px;
+    padding: 0 5%;
 }
