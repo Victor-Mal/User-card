@@ -54,7 +54,8 @@
     height: 2rem;
 }
 .text {
-    padding: 0 0 3%;
+    margin: 0;
+    padding: 2% 10% 3%;
 }
 .f-g-t {
     display: inline-block;
